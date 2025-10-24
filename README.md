@@ -1,1 +1,1 @@
-https://frontendmasters.com/workshops/modern-css/
+https://frontendmasters.com/workshops/modern-css
